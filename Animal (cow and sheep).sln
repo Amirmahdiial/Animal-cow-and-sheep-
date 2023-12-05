@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal (cow and sheep)", "Animal (cow and sheep)\Animal (cow and sheep).csproj", "{D3E0B3A4-5B8F-4008-8C29-222A345AFA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E0B3A4-5B8F-4008-8C29-222A345AFA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E0B3A4-5B8F-4008-8C29-222A345AFA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E0B3A4-5B8F-4008-8C29-222A345AFA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E0B3A4-5B8F-4008-8C29-222A345AFA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE048A56-8A61-42F1-868D-92CF8E7999BD}
+	EndGlobalSection
+EndGlobal
